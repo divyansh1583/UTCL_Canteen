@@ -1,5 +1,4 @@
 ﻿
-I
 UTCL-CANTEEN-APP
 
 UTCL-Canteen is app to digitize the coupon system of ordering from canteen. The app aims to simplify the process and make it more convenient for employees.
