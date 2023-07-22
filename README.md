@@ -53,6 +53,5 @@ E.g. Pakora (10), Samosa (10), and Tea (10).
 
 The backend system utilizes a configured email service to send the generated email to the canteen's designated email address. Additionally, a copy of the email is also sent to the HOD's email address. The email contains the subject line "Canteen Order Request" to clearly indicate the purpose of the email.
 
-**Email Message Sent:**
 
 
