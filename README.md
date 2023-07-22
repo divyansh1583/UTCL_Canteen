@@ -17,17 +17,6 @@ The main objective of the UTCL-Canteen app is to create a user-friendly and easi
 The frontend of the app was developed using Flutter and Dart, enabling a seamless and visually appealing user interface. Upon launching the app, users are greeted with a simple sign-in/sign-up page, ensuring secure access to the coupon management system. The intuitive design and user-friendly interface make it easy for anyone with a smartphone to navigate and utilize the app effectively.
 
 
-**SignIn:                                                             Sign Up:**
-
-` `![](Aspose.Words.d002eea3-906f-4815-b1cd-f1a50b75699f.002.jpeg)                                    
-![A sign up form on a screen Description automatically generated]
-(Aspose.Words.d002eea3-906f-4815-b1cd-f1a50b75699f.003.jpeg)
-
-**3.Homepage:**
-
-![](Aspose.Words.d002eea3-906f-4815-b1cd-f1a50b75699f.004.jpeg)
-
-
 **Backend:**
 
 To power the functionality of the UTCL-Canteen app, I integrated Firebase as the backend solution. Firebase provided a robust set of services that facilitated user authentication and data storage.
@@ -36,13 +25,12 @@ To power the functionality of the UTCL-Canteen app, I integrated Firebase as the
 
 For the sign-in process, I leveraged Firebase Authentication, which allowed users to securely log in to the UTCL-Canteen app using their username and password. This ensured that only authorized individuals could access the coupon management system.
 
-![](Aspose.Words.d002eea3-906f-4815-b1cd-f1a50b75699f.005.png)
+
 
 1. **Firestore Database:**
 
 To store and manage the data associated with the app, I utilized Firebase Firestore, a flexible and scalable NoSQL document database. Firestore provided a real-time synchronization capability, enabling instant updates to the coupon-related information. This allowed for seamless tracking and management of coupons within the app.
 
-![](Aspose.Words.d002eea3-906f-4815-b1cd-f1a50b75699f.006.png)
 
 1. **Result:**
 
@@ -68,5 +56,4 @@ The backend system utilizes a configured email service to send the generated ema
 
 **Email Message Sent:**
 
-![](Aspose.Words.d002eea3-906f-4815-b1cd-f1a50b75699f.007.png)
 
